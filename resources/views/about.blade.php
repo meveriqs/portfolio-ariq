@@ -92,7 +92,7 @@
                 <div class="timeline-card">
                     <div class="timeline-icon"><i class="fas fa-graduation-cap"></i></div>
                     <div>
-                        <div class="timeline-year">2023 – Sekarang</div>
+                        <div class="timeline-year">2024 – Sekarang</div>
                         <h4 class="fw-semibold mb-2">S1 Teknik Informatika</h4>
                         <p class="text-muted small mb-0">Menempuh pendidikan jurusan Teknik Informatika. Mata kuliah aktif: Pemrograman Web, Framework Web, Basis Data Lanjutan, Algoritma & Struktur Data.</p>
                     </div>
